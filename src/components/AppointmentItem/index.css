@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-item-top-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.app-date-styling {
+  color: #b5b7c4;
+}
+.app-list-item {
+  font-family: 'Roboto';
+  height: 100px;
+  width: 300px;
+  border-radius: 5px;
+  border-color: #b5b7c4;
+}
+.app-title-styling {
+  color: #171f46;
+}
+.star-btn {
+  border-width: 0px;
+}

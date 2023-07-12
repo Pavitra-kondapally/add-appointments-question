@@ -1,0 +1,72 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  background-size: cover;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  height: 500px;
+  width: 600px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+.heading-style {
+  color: #171f46;
+}
+.title-style {
+  color: #171f46;
+}
+.title-input-box {
+  height: 30px;
+  width: 200px;
+}
+.date-style {
+  color: #171f46;
+}
+.button-styling {
+  height: 30px;
+  width: 80px;
+  background-color: #8b5cf6;
+  color: #ffffff;
+}
+.appointments-image {
+  height: 200px;
+  width: 250px;
+}
+.appointment-form-container {
+  display: flex;
+  flex-direction: column;
+}
+.top-part-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.horizontal-line {
+  width: 3px;
+  color: #b5b7c4;
+}
+.card-container {
+  padding: 10px;
+}
+.app-list-title-style {
+  color: #171f46;
+}
+.starred-btn {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  border-color: #9897f0;
+  background-color: transparent;
+}
+.bottom-header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
